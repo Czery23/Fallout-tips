@@ -29,7 +29,7 @@ This repository contains a **plain text file** with all the in-game loading scre
 
 ## 📌 Notes
 
-- "This project is an unofficial compilation of Fallout 4 loading screen tips and is not affiliated with or endorsed by Bethesda Softworks."  
+- "This project is an unofficial compilation of Fallout loading screen tips and is not affiliated with or endorsed by Bethesda Softworks."  
 - All tips are extracted from publicly available content.  
 
 ---
